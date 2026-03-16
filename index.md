@@ -5,44 +5,30 @@ title: POCSO Case Analysis and Prediction
 
 # POCSO Case Analysis & Prediction System
 
-### AI-assisted Legal Research Project
+AI-assisted legal research project analysing judicial decisions under the POCSO Act.
 
-This platform presents a structured analysis of judicial decisions under the **Protection of Children from Sexual Offences (POCSO) Act, 2012**, with a focus on identifying judicial reasoning patterns and predicting potential case outcomes based on factual matrices.
+This platform studies patterns in judgments relating to:
 
-The project examines judicial decisions relating to:
-
-- Section 3 – Penetrative Sexual Assault  
-- Section 4 – Punishment for Penetrative Sexual Assault  
-- Section 5 – Aggravated Penetrative Sexual Assault  
-- Section 6 – Punishment for Aggravated Penetrative Sexual Assault  
-- Section 7 – Sexual Assault  
-- Section 8 – Punishment for Sexual Assault  
-
-The objective is to understand **how courts evaluate evidence, aggravating factors, and mitigating circumstances while determining conviction and sentencing.**
+- Section 3 – Penetrative Sexual Assault
+- Section 4 – Punishment
+- Section 5 – Aggravated Penetrative Sexual Assault
+- Section 6 – Punishment for Aggravated Offences
+- Section 7 – Sexual Assault
+- Section 8 – Punishment for Sexual Assault
 
 ---
 
-## Website Navigation
+## Navigation
 
 - [About the Project](about.md)
 - [Research Methodology](methodology.md)
-- [Dataset and Case Compilation](dataset.md)
+- [Dataset](dataset.md)
 - [Judicial Analysis](analysis.md)
 - [Prediction Tool](prediction.md)
+- [POCSO Chatbot](chatbot.html)
 - [References](references.md)
 - [Contact](contact.md)
 
 ---
 
-## Research Objective
-
-The project aims to develop a structured understanding of **judicial reasoning in POCSO cases** by analysing multiple High Court decisions and identifying recurring factual patterns that influence:
-
-- conviction
-- acquittal
-- sentencing severity
-- classification of offences
-
----
-
-© 2026 POCSO Legal Analytics Project
+This project analyses judicial reasoning patterns to understand how courts decide POCSO cases.
